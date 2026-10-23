@@ -1,13 +1,20 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><!-- sparkle-sign-warning:
+<?xml version="1.0" standalone="yes"?><!-- sparkle-sign-warning:
 IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
 --><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
-  <channel>
-    <title>Loadway Updates</title>
-    <link>https://github.com/YooTommy-CH/loadway/releases</link>
-    <description>Official signed updates for Loadway.</description>
-    <language>en</language>
-  </channel>
+    <channel>
+        <title>Loadway</title>
+        <item>
+            <title>1.0</title>
+            <pubDate>Fri, 23 Oct 2026 13:37:10 +0200</pubDate>
+            <link>https://theprojectsunshine.com/projects/loadway/</link>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/YooTommy-CH/loadway/releases/download/v1.0/Loadway-1.0-macOS.dmg" length="81217501" type="application/octet-stream" sparkle:edSignature="l7nfo+cz3z44i7SLFl6XnMD6agnwc7Gn46/p07Bjok4Suld2C03SCo1pIhh6LNdSB7/UE6QRoUw0gb6qT7WpCA=="></enclosure>
+        </item>
+    </channel>
 </rss><!-- sparkle-signatures:
-edSignature: 1M5fv8fnWjcJf6gLz+VSFiVvB+GyeVUaEgFclGwXj3DhrV02+1a1vn53urXLw40epGoWurdr2xfXgDDhlN6NDQ==
-length: 606
+edSignature: 2/EqzzKJqfgJvWviDVmH8RJjvJybLVG4eFlSycHCe0FHWyNnU8m7C15u6tNVMKhHpnrfF5jqaTXTTOqaY4ESDQ==
+length: 1193
 -->
